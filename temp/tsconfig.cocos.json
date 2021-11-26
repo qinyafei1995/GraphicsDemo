@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "ES2015",
+    "strict": true,
+    "types": [
+      "./temp/declarations/cc",
+      "./temp/declarations/cc.env",
+      "./temp/declarations/jsb"
+    ],
+    "paths": {
+      "db://internal/*": [
+        "/Users/qinyafei/myFolder/Engine/cocos/Creator/3.3.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
+      ],
+      "db://assets/*": [
+        "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/*"
+      ]
+    },
+    "experimentalDecorators": true,
+    "isolatedModules": true,
+    "moduleResolution": "node",
+    "noEmit": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}

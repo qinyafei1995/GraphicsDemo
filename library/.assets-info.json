@@ -126,5 +126,77 @@
     "time": 1637831834888.1294,
     "uuid": "45fb33d1-94b1-4222-941f-1f1e05ea5b3e",
     "missing": false
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/resourecs": {
+    "time": 1637744552670.943,
+    "uuid": "4c7901a5-e75c-4571-822a-8a915d21b302",
+    "missing": false
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/scene": {
+    "time": 1637742223444.6738,
+    "uuid": "3e368374-e9f6-4c6b-95dd-e21362c99604",
+    "missing": false
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/script": {
+    "time": 1637829016247.0347,
+    "uuid": "2b6a82bb-800f-4b77-99b0-cb1163fe72ea",
+    "missing": false
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/resourecs/graphicsItem.prefab": {
+    "time": 1637750555952.9668,
+    "uuid": "32fa9730-796e-4a05-9426-a444396a4ff8",
+    "missing": false
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/scene/scene.scene": {
+    "time": 1637831736408.1343,
+    "uuid": "a58f0059-c9c1-4e8e-90f4-0ea0b91c9ca5",
+    "missing": false
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/script/drowPanel.ts": {
+    "time": 1637831834888.1294,
+    "uuid": "45fb33d1-94b1-4222-941f-1f1e05ea5b3e",
+    "missing": false
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/script/gameMain.ts": {
+    "time": 1637829188212.5693,
+    "uuid": "a64896b6-7cea-4a51-837f-e6f4a3593729",
+    "missing": false
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/script/graphicsCtrl.ts": {
+    "time": 1637827752428.8232,
+    "uuid": "54ffd24c-ff18-4d80-949b-c50acbf60b38",
+    "missing": false
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/script/graphicsItem.ts": {
+    "time": 1637831606101.7825,
+    "uuid": "4fc9a02e-b9d0-4031-9c54-d234eea862a8",
+    "missing": false
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/resourecs.meta": {
+    "time": 1637744522158.6248
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/scene.meta": {
+    "time": 1637742209592.2712
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/script.meta": {
+    "time": 1637742199837.8884
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/script/drowPanel.ts.meta": {
+    "time": 1637829010174.7192
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/script/gameMain.ts.meta": {
+    "time": 1637826258726.4204
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/script/graphicsCtrl.ts.meta": {
+    "time": 1637742320631.077
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/script/graphicsItem.ts.meta": {
+    "time": 1637744437031.2454
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/resourecs/graphicsItem.prefab.meta": {
+    "time": 1637744552678.1702
+  },
+  "/Users/qinyafei/myPrograme/myGithub/graphicsDemo2/GraphicsDemo/assets/scene/scene.scene.meta": {
+    "time": 1637742223446.0854
   }
 }
